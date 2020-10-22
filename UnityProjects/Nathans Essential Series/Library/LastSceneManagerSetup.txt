@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Debugging Tutorial.unity
+- path: Assets/Scenes/BasicOperandsTutorial.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
