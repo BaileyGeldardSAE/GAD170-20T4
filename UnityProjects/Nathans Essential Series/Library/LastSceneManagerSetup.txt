@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Week_2/Week Two IF_ELSE_IF Statements.unity
+- path: Assets/Scenes/Week_2/Scope_DiceRolling.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
