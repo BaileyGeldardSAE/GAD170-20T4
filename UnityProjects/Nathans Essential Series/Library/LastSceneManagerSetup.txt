@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Week_2/Scope_DiceRolling.unity
+- path: Assets/Scenes/Week_2/WeekTwo_CoffeeMachine.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
